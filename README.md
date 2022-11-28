@@ -9,3 +9,7 @@ In order to keep you from involving in unnecessary trouble, here, we have to men
 2、随着项目2（背景音乐播放器）打开，会自动弹出DOS窗口，幸运的是，这个窗口会显示在游戏界面以下，所以就不用管他了。
 3、Don't change file path, this may make our project get into trouble.
 3、不要改变文件路径，这可能会使项目出错。
+4、Click "WindowsProject1.sln" to start.
+4、点击"WindowsProject1.sln"文件开始游戏
+5、Google will help you a lot.
+5、百度一下，你就知道。
